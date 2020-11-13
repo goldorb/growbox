@@ -8,7 +8,7 @@ import 'pages/indoorModule.dart';
 
 void main() => runApp(MyApp());
 
-/// This is the main application widget.
+/// This is the main application widget for the UrbanFarmer APP.
 class MyApp extends StatelessWidget {
   static const String _title = 'UrbanFarmer';
 
